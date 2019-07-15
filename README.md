@@ -1,4 +1,4 @@
-## R_Data_Analysis
+## Python
 
 ### 교재 : 파이썬 코딩 도장
 #### 저자 : 남재윤
