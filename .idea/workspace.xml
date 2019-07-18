@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e6c0c16-67b8-44b4-a851-5cebd0b16aa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 20/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 22/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 23/Practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 23/two_dimensional_list3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 23/two_dimensional_list4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 24/Practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 24/applied_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 24/formatting_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_practice/Practice01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_practice/Practice02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_practice/star_with_format/star01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_practice/star_with_format/백준 별찍기.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_practice/파이썬 연습문제.pptx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_coding_dojang/Unit 19/Homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 19/Homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_coding_dojang/Unit 23/two_dimensional_list2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 23/two_dimensional_list2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_practice/star_with_format/star01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_practice/star_with_format/백준 별찍기.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,20 +47,22 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="960" />
-    <option name="height" value="1040" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python_study/practice/백준 별찍기" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -219,9 +207,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1040" extended-state="0" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21895425" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21474358" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -413,26 +401,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_practice/Practice02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_practice/Practice01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="2" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_practice/star_with_format/star01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_practice/Practice02.py" />
+    <entry file="file://$PROJECT_DIR$/Python_practice/Practice01.py" />
+    <entry file="file://$PROJECT_DIR$/Python_practice/star_with_format/star01.py" />
   </component>
 </project>
