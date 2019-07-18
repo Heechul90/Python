@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e6c0c16-67b8-44b4-a851-5cebd0b16aa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 21/polygon.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 21/red_hexagon.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_coding_dojang/Unit 19/dfdfd.py" beforeDir="false" />
-    </list>
+    <list default="true" id="7e6c0c16-67b8-44b4-a851-5cebd0b16aa8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +9,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 22/applied_list6.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,6 +45,7 @@
         <option value="$PROJECT_DIR$/Python_coding_dojang/Unit 17/homework.py" />
         <option value="$PROJECT_DIR$/Python_coding_dojang/Unit 18/homework.py" />
         <option value="$PROJECT_DIR$/Python_coding_dojang/Unit 19/Homework.py" />
+        <option value="$PROJECT_DIR$/Python_coding_dojang/Unit 22/applied_list6.py" />
       </list>
     </option>
   </component>
@@ -52,7 +58,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -69,12 +74,13 @@
               <item name="Python_lecture" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_lecture" type="462c0819:PsiDirectoryNode" />
               <item name="Python_coding_dojang" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit 19" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit 22" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -93,7 +99,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Homework">
+  <component name="RunManager" selected="Python.applied_list6">
     <configuration name="Homework" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_lecture" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="applied_list6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_lecture" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +129,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_coding_dojang/Unit 15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_coding_dojang/Unit 22" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_coding_dojang/Unit 15/homework.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_coding_dojang/Unit 22/applied_list6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.applied_list6" />
         <item itemvalue="Python.Homework" />
         <item itemvalue="Python.homework" />
         <item itemvalue="Python.homework (5)" />
         <item itemvalue="Python.homework (4)" />
-        <item itemvalue="Python.homework (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -224,13 +230,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1108" height="1040" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.35834897" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33023256" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33023256" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -383,6 +390,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 22/applied_list6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
         </state>
       </provider>
     </entry>
