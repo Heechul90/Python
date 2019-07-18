@@ -6,13 +6,13 @@
 ## 이때 출력 결과는 예제와 정확히 일치해야 합니다. 
 ## 모양이 같더라도 공백이나 빈 줄이 더 들어가면 틀린 것으로 처리됩니다.
 
-line = int(input())
 
-for i in range(line):
-    for k in range(line):
-        if i < k:
-            print('*', end = '')
+for i in range(5):
+    for k in range(5):
         if i > k:
+            print(' ', end = '')
+        else:
             print('*', end = '')
+
 
     print()
