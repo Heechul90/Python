@@ -18,7 +18,12 @@
 #    59,200
 #    51,900
 
-p = list(map(int, input('물품의 가격을 입력하시오.: ').split(';')))
+prices = list(map(int, input('물품의 가격을 입력하시오.: ').split(';')))
+prices.sort(reverse = True)
+prices
 
 
-print(p)
+for price in prices:
+    print('{:,}'.format(price))
+
+
