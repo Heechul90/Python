@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e6c0c16-67b8-44b4-a851-5cebd0b16aa8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Python_practice/star_with_format/star01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_practice/star_with_format/백준 별찍기.txt" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 27/practice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 28/N-gram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 28/practice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +15,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,12 +52,17 @@
         <option value="$PROJECT_DIR$/Python_practice/Practice01.py" />
         <option value="$PROJECT_DIR$/Python_practice/Practice02.py" />
         <option value="$PROJECT_DIR$/Python_practice/star_with_format/star01.py" />
+        <option value="$PROJECT_DIR$/Python_coding_dojang/Unit 27/pickle.py" />
+        <option value="$PROJECT_DIR$/Python_coding_dojang/Unit 27/practice.py" />
+        <option value="$PROJECT_DIR$/Python_coding_dojang/Unit 28/palindrome.py" />
+        <option value="$PROJECT_DIR$/Python_coding_dojang/Unit 28/N-gram.py" />
+        <option value="$PROJECT_DIR$/Python_coding_dojang/Unit 28/practice.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="width" value="1131" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -56,8 +70,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python_lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_lecture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python_lecture" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python_lecture" type="462c0819:PsiDirectoryNode" />
+              <item name="Python_coding_dojang" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -77,28 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Practice01">
-    <configuration name="Homework" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_lecture" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_coding_dojang/Unit 19" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_coding_dojang/Unit 19/Homework.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.practice">
     <configuration name="Practice01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_lecture" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -162,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="homework" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pickle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_lecture" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,11 +178,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_coding_dojang/Unit 18" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_coding_dojang/Unit 27" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_coding_dojang/Unit 18/homework.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_coding_dojang/Unit 27/pickle.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_lecture" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_coding_dojang/Unit 27" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_coding_dojang/Unit 27/practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.practice" />
+        <item itemvalue="Python.pickle" />
         <item itemvalue="Python.Practice01" />
         <item itemvalue="Python.homework (2)" />
         <item itemvalue="Python.homework (1)" />
-        <item itemvalue="Python.Homework" />
-        <item itemvalue="Python.homework" />
       </list>
     </recent_temporary>
   </component>
@@ -207,14 +236,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="1131" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21474358" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38842976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33023256" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3298731" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -222,7 +251,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3288835" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.6686047" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.39100346" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -404,5 +433,69 @@
     <entry file="file://$PROJECT_DIR$/Python_practice/Practice02.py" />
     <entry file="file://$PROJECT_DIR$/Python_practice/Practice01.py" />
     <entry file="file://$PROJECT_DIR$/Python_practice/star_with_format/star01.py" />
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/james.p">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/heechul.p">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 27/james.p">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 27/write_read2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 27/write_read1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="30" selection-start-line="7" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 27/pickle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 27/james.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 27/words.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 27/practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 28/practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 28/N-gram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 28/palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
