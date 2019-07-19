@@ -11,5 +11,16 @@
 ## 출력 결과는 리스트 형태라야 합니다.
 
 a = int(input('1~20의 a (b 보다 작은 값)값을 입력하시오: '))
-b = int(input('1~20의 b 값을 입력하시오: '))
+b = int(input('10~30의 b 값을 입력하시오: '))
+
+comprehension = []
+
+for i in range(a, b + 1):
+    result = 2**i
+    comprehension.append(result)
+
+del comprehension[1]
+del comprehension[-2]
+
+print(comprehension)
 
