@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e6c0c16-67b8-44b4-a851-5cebd0b16aa8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 27/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 28/N-gram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_coding_dojang/Unit 28/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7e6c0c16-67b8-44b4-a851-5cebd0b16aa8" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +71,6 @@
             <path>
               <item name="Python_lecture" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python_lecture" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_lecture" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_lecture" type="462c0819:PsiDirectoryNode" />
-              <item name="Python_coding_dojang" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -238,7 +228,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1131" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38842976" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.38842976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -251,7 +241,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3288835" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.39100346" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="10" visible="true" weight="0.39100346" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -433,12 +423,8 @@
     <entry file="file://$PROJECT_DIR$/Python_practice/Practice02.py" />
     <entry file="file://$PROJECT_DIR$/Python_practice/Practice01.py" />
     <entry file="file://$PROJECT_DIR$/Python_practice/star_with_format/star01.py" />
-    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/james.p">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/heechul.p">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/james.p" />
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/heechul.p" />
     <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 27/james.p">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -463,9 +449,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 27/james.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 27/james.txt" />
     <entry file="file://$PROJECT_DIR$/Python_coding_dojang/Unit 27/words.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
