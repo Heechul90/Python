@@ -1,5 +1,17 @@
 ### Unit 27. 파일 사용하기
 ## 27.1 파일에 문자열 쓰기, 읽기
+import os
+os.getcwd()                                                              # 현재 디렉토리 위치를 출력
+os.chdir('D:\\Heechul\\Python_lecture\\Python_coding_dojang\\Unit 27')   # change directory, 경로는 '\'
+# os.mkdir('경로')  폴더 만들기
+# 파일 이동
+
+import shutil  # 모듈 사용
+# 파일 복사
+# 파일 이동
+# shutil.move(a, b)
+
+
 
 ## 27.1.1  파일에 문자열 쓰기
 ## 파일객체 = open(파일이름, 파일모드)
