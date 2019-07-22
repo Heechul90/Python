@@ -134,7 +134,7 @@ print('apple pineapple'.rfind('xy'))
 print('apple pineapple'.index('pl'))
 
 
-## 24.1.21                오른쪽에서부터 문자열 위치 찾기
+## 24.1.21 오른쪽에서부터 문자열 위치 찾기
 ## rindex('찾을문자열')은 오른쪽에서부터 특정 문자열을 찾아서 인덱스를 반환합니다
 ## (r은 오른쪽(right)을 의미)
 print('apple pineapple'.rindex('pl'))

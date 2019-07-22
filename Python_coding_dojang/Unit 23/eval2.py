@@ -19,31 +19,29 @@
 # 시간을 두고 천천히 고민해서 풀어보세요.
 # 지금까지 학습한 내용을 모두 동원해야 풀 수 있으며
 # 막힐 때는 지금까지 학습한 내용을 다시 복습하면서 힌트를 찾아보세요.
-from pprint import pprint
 
-col = int(input('가로 줄 입력: '))     # 가로
-row = int(input('세로 줄 입력: '))     # 세로
+from pprint import pprint
+col, row = map(int, input().split())
 
 matrix = []
 for i in range(row):
     matrix.append(list(input()))
+pprint(matrix, indent=2)
 
-matrix
-
-def mines(i, k):
+def countMines(i, k):
     if matrix[i][k] == '*':
         return '*'
 
     count = 0
-    for r in range(i - 1, i + 2):
-        for c in range(k - 1, k + 2):
+    for r in range(i-1, i+2):
+        for c in range(k-1, k+2):
             if r < 0 or c < 0 or r >= row or c >= col:
                 continue
             if matrix[r][c] == '*':
-                count = count + 1
+                count += 1
     return count
 
 for i in range(row):
     for k in range(col):
-        print(mines(i, k), end = '')
+        print(countMines(i, k), end='')
     print()
