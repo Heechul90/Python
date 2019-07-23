@@ -15,6 +15,11 @@ a, b = map(int, input('1~1000사이의 두 정수를 입력(두번째숫자가 �
 
 numbers = []
 for i in range(a, b + 1):
-    num = str(i)
+    numbers.append(str(i))
+
+numbers
+
+
+for number in numbers:
 
 

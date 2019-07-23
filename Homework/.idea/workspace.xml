@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbd470f-0e01-4b14-91c9-fde6297c7a84" name="Default Changelist" comment="" />
+    <list default="true" id="cdbd470f-0e01-4b14-91c9-fde6297c7a84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Homework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework16/2. 반복문/repetition04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework16/2. 반복문/repetition04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit30.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit33.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Unit34.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_coding_dojang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_coding_dojang/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_coding_dojang/Unit 31/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 31/homework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Python_coding_dojang/Unit 32/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 32/homework.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,10 +40,10 @@
         <option value="$PROJECT_DIR$/Homework16/1. 조건문/condition04.py" />
         <option value="$PROJECT_DIR$/Homework16/2. 반복문/repetition02.py" />
         <option value="$PROJECT_DIR$/Homework16/2. 반복문/repetition03.py" />
-        <option value="$PROJECT_DIR$/Homework16/2. 반복문/repetition04.py" />
         <option value="$PROJECT_DIR$/Homework16/2. 반복문/repetition05.py" />
         <option value="$PROJECT_DIR$/Homework16/2. 반복문/repetition.py" />
         <option value="$PROJECT_DIR$/Homework16/2. 반복문/repetition06.py" />
+        <option value="$PROJECT_DIR$/Homework16/2. 반복문/repetition04.py" />
       </list>
     </option>
   </component>
@@ -65,22 +76,6 @@
               <item name="Homework" type="b2602c69:ProjectViewProjectNode" />
               <item name="Homework" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework14(Unit08~12)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework16" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Homework" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Homework" type="462c0819:PsiDirectoryNode" />
-              <item name="Homework16" type="462c0819:PsiDirectoryNode" />
-              <item name="2. 반복문" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -90,6 +85,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python_coding_dojang" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -132,7 +128,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32924107" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -151,8 +147,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Homework16/1. 조건문/condition03.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="8" />
+        <state relative-caret-position="304">
+          <caret line="16" column="16" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -184,17 +180,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Homework16/2. 반복문/repetition06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Homework16/2. 반복문/repetition05.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Homework16/2. 반복문/repetition06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
         </state>
       </provider>
     </entry>
