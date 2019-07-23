@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbd470f-0e01-4b14-91c9-fde6297c7a84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Homework16/1. 조건문/condition03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework16/1. 조건문/condition04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework16/2. 반복문/repetition01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework16/2. 반복문/repetition02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework16/2. 반복문/repetition03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework16/2. 반복문/repetition04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework16/2. 반복문/repetition05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework16/2. 반복문/repetition06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 23/eval1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 23/eval2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 24/homework1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 29/Function01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 29/function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 29/function02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 29/function03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 29/function04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 29/function05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 29/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 29/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework16/1. 조건문/condition02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework16/1. 조건문/condition02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_coding_dojang/.idea/Python_coding_dojang.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_coding_dojang/.idea/Python_coding_dojang.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_coding_dojang/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_coding_dojang/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_coding_dojang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_coding_dojang/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_coding_dojang/Unit 23/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 23/homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_coding_dojang/Unit 24/applied_string.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 24/applied_string.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_coding_dojang/Unit 24/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 24/homework2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_coding_dojang/new.py" beforeDir="false" />
-    </list>
+    <list default="true" id="cdbd470f-0e01-4b14-91c9-fde6297c7a84" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +9,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -116,7 +88,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python_coding_dojang" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
