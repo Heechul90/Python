@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41e31f1d-9f79-4818-b987-3fb15aa5c320" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Unit 35/class_instance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 35/class_method01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 35/class_method02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 35/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 35/practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 36/class_abstract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 36/class_inheritance01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 36/class_inheritance02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 36/class_inheritance_attribute.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 36/class_method_overriding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 36/class_multiple_inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 36/homework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Unit 36/practice.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework/Homework16/2. 반복문/repetition04.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework/Homework16/2. 반복문/repetition04.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,74 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit 36/class_inheritance01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit 36/class_inheritance02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit 36/class_inheritance_attribute.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit 36/class_method_overriding.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit 36/class_multiple_inheritance.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit 36/class_abstract.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" selection-end-line="1" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Unit 36/practice.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Unit 36/homework.py">
+        <entry file="file://$PROJECT_DIR$/../Homework/Homework16/2. 반복문/repetition04.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            <state relative-caret-position="185">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -120,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Unit 29/function05.py" />
         <option value="$PROJECT_DIR$/Unit 29/function03.py" />
         <option value="$PROJECT_DIR$/Unit 29/practice.py" />
         <option value="$PROJECT_DIR$/Unit 29/homework.py" />
@@ -171,6 +94,7 @@
         <option value="$PROJECT_DIR$/Unit 36/class_abstract.py" />
         <option value="$PROJECT_DIR$/Unit 36/practice.py" />
         <option value="$PROJECT_DIR$/Unit 36/homework.py" />
+        <option value="$PROJECT_DIR$/../Homework/Homework16/2. 반복문/repetition04.py" />
       </list>
     </option>
   </component>
@@ -187,22 +111,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Python_coding_dojang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_coding_dojang" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python_coding_dojang" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python_coding_dojang" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit 36" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -331,7 +240,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1264" height="1034" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1923077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -353,13 +261,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Unit 24/formatting_string.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unit 24/applied_string.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="939">
@@ -650,20 +551,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 36/class_inheritance01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 36/class_inheritance02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Unit 36/class_inheritance_attribute.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -675,13 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Unit 36/class_method_overriding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -701,8 +581,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Unit 36/homework.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="318">
+          <caret line="23" selection-start-line="23" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 36/class_method_overriding.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 36/class_inheritance02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit 36/class_inheritance01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Homework/Homework16/2. 반복문/repetition04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

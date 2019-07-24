@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdbd470f-0e01-4b14-91c9-fde6297c7a84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Homework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework16/2. 반복문/repetition04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Homework16/2. 반복문/repetition04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit30.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit33.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Unit34.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Python_coding_dojang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_coding_dojang/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_coding_dojang/Unit 31/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 31/homework.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Python_coding_dojang/Unit 32/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Python_coding_dojang/Unit 32/homework.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -44,16 +43,12 @@
         <option value="$PROJECT_DIR$/Homework16/2. 반복문/repetition.py" />
         <option value="$PROJECT_DIR$/Homework16/2. 반복문/repetition06.py" />
         <option value="$PROJECT_DIR$/Homework16/2. 반복문/repetition04.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/Homework.iml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file01.py" />
+        <option value="$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file02.py" />
+        <option value="$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file03.py" />
+        <option value="$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file04.py" />
+        <option value="$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file05.py" />
+        <option value="$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file06.py" />
       </list>
     </option>
   </component>
@@ -68,7 +63,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -80,6 +74,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,10 +189,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Unit36.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Unit35.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Homework16/2. 반복문/repetition04.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework19(Unit30~34)/Unit32.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="94" lean-forward="true" selection-start-line="23" selection-end-line="23" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="7" />
+          <folding>
+            <element signature="e#533#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Homework17/3. 문자열 및 파일/file06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="35" column="25" lean-forward="true" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+          <folding>
+            <element signature="e#291#312#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
