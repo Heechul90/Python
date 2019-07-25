@@ -1,34 +1,71 @@
 ## 문제 8
 
+import random as rd
 from pprint import pprint
-import random
+tile = []
+for i in range(5):
+    row = []
+    for k in range(5):
+        tmp = rd.randint(1, 4)
+        row.append(tmp)
+        print(tmp, end=' ')
+    tile.append(row)
+    print()
+#pprint(tile, indent=2)
+tpTile = [list(x) for x in zip(*tile)]
 
-matrix = [[random.randint(1,4),random.randint(1,4),random.randint(1,4),random.randint(1,4),random.randint(1,4)],
-           [random.randint(1,4),random.randint(1,4),random.randint(1,4),random.randint(1,4),random.randint(1,4)],
-           [random.randint(1,4),random.randint(1,4),random.randint(1,4),random.randint(1,4),random.randint(1,4)],
-           [random.randint(1,4),random.randint(1,4),random.randint(1,4),random.randint(1,4),random.randint(1,4)],
-           [random.randint(1,4),random.randint(1,4),random.randint(1,4),random.randint(1,4),random.randint(1,4)]]
+def findPung(line):  # 한 라인을 매개변수로 받아, 결과, 시작, 끝 인덱스 반환
+    start = 0
+    stop = 0
+    pung = False
+    for i in range(3):
+        if line[i] != line[i+1] or line[i+1] != line[i+2]:
+            continue
+        pung = True
+        start = i
+        stop = i+2
+        if i == 2:
+            break
+        if line[i+2] != line[i+3]:
+            break
+        stop = i+3
+        if i == 1:
+            break
+        if line[i+3] == line[i+4]:
+            stop = i+4
+        break
+    return pung, start, stop
 
-pprint(matrix, indent=4, width=20)
-matrix[0][:]
+def copyLine(pung, start, stop, line):
+    newLine = line.copy()
+    if pung:
+        for i in range(start, stop+1):
+            newLine[i] = 8
+    return newLine
 
-def mines(i, k):
-    if matrix[i][k] == matrix[i][k + 1] == matrix[i][k + 2]:
-        return '*'
-    if matrix[i][k] == matrix[i + 1][k] == matrix[i + 1][k]:
-        return '*'
+rowResult = []
+for i in range(5):
+    pung, start, stop = findPung(tile[i])
+    #print(pung, start, stop, tile[i])
+    rowResult.append(copyLine(pung, start, stop, tile[i]))
+#pprint(rowResult, indent=2)
 
+colResult = []
+for i in range(5):
+    pung, start, stop = findPung(tpTile[i])
+    #print(pung, start, stop, tpTile[i])
+    colResult.append(copyLine(pung, start, stop, tpTile[i]))
+#pprint(colResult, indent=2)
+tpColResult = [list(x) for x in zip(*colResult)]
 
-
+print('   ==>')
 for i in range(5):
     for k in range(5):
-        print(mines(i, k), end = '')
+        if rowResult[i][k] == 8 or tpColResult[i][k] == 8:
+            tile[i][k] = '*'
+            print('*', end=' ')
+        else:
+            tile[i][k] = str(tile[i][k])
+            print(tile[i][k], end=' ')
     print()
-
-
-
-matrix = []
-for i in range(row):
-    matrix.append(list(input()))
-
-matrix
+#pprint(tile, indent=2)
