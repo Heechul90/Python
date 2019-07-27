@@ -6,11 +6,7 @@
 vegetables = {'가지': 800, '오이': 600, '수박': 15000, '호박': 1000, '깻잎': 500}
 
 
-result = []
-for vegetable in vegetables.items():
-    vegetable = list(vegetable)
-
-    print(vegetable)
-
-
-print(result)
+for key, value in sorted(vegetables.items(), key = lambda x:x[1], reverse = True):
+    value = format(value,',')
+    value = value.rjust(7)
+    print(key, ':', value, sep = '')
