@@ -15,3 +15,5 @@
 * <a href="https://dojang.io/course/view.php?id=7" target="_blank">파이썬 코딩 도장: 따라하기, 연습하기, 심사하기로 배우는 파이썬 프로그래밍</a>
 
 ![](http://i.imgur.com/BzEJ1yv.png)
+
+[[다음으로]](https://github.com/heechul90/study-python-basic-2)
